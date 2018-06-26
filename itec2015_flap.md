@@ -10,11 +10,6 @@ The downloaded file can be found at the bottom right corner of your screen insid
 
 Next, move the folder to the desktop.
 
-### Corona Simulator
-
-
-<img src="https://coronalabs.com/wordpress/wp-content/uploads/2016/08/corona_logo.png" style="width:128px;float:left;margin:10px" />
-
 Go to **Launchpad** to find and start up the **Corona Simulator**. Login by using the **loginID** and **password** provided. Click **New Project** to start a new empty project.
 
 In the next page, type in an **application name** (something similar to Flappy Bird). We will use the default Blank project template. For screen size, let’s pick **Phone Preset**, which would give the **iPhone4 dimension**. As we target **iPhone5 or some other longer screen sizes**, let’s modify the **height to `568`**. Some files will then be generated in the project folder.
